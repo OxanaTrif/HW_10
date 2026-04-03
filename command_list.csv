@@ -1,0 +1,46 @@
+    1  cd
+    2  clear
+    3  cd
+    4  [200~git config~clear
+    5  clear
+    6  git config --global user.name "oxanatrif"
+    7  git config --global user.email asiakovalchuk11@gmail.com
+    8  [200~git config --global user.name "oxanatrif"
+    9  clear
+   10  git config --global user.name "Oxana Trif"
+   11  git config --global user.email asiakovalchuk11@gmail.com
+   12  git clone [200~https://github.com/OxanaTrif/HW_10.git~
+   13  git clone https://github.com/OxanaTrif/HW_10.git
+   14  cd HW_10/
+   15  touch text_ignore.txt
+   16  nano .gitignore
+   17  nano .gitignore 
+   18  nano .gitignore
+   19  nano .gitignore
+   20  gitstatus
+   21  git status
+   22  git add 
+   23  git add .
+   24  git add .gitignore
+   25  git status
+   26  git commit -m "task1"
+   27  touch main_test.txt
+   28  git add main_test.txt
+   29  git commit -m "task2"
+   30  git branch
+   31  git chekout -b develop
+   32  git chekout -b develop
+   33  git checkout -b develop
+   34  git branch
+   35  touch develop_test.txt
+   36  git add develop_test.txt
+   37  git commit -m "task3"
+   38  nano develop_test.txt file
+   39  git status
+   40  git add develop_test.txt file
+   41  git add develop_test.txt
+   42  git commit -m "task3+"
+   43  git checkout main
+   44  git merge main develop
+   45  git log
+   46  history > command_list.csv
